@@ -1,0 +1,41 @@
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\bin\Debug\Calculadoraa.exe.config
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\bin\Debug\Calculadoraa.exe
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\bin\Debug\Calculadoraa.pdb
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.csproj.AssemblyReference.cache
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.csproj.SuggestedBindingRedirects.cache
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.Properties.Resources.resources
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.csproj.GenerateResource.cache
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.csproj.CoreCompileInputs.cache
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.exe
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.pdb
+C:\Users\evesu\source\repos\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.CALCULADORA.resources
+C:\Users\edtom\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\bin\Debug\Calculadoraa.exe.config
+C:\Users\edtom\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.exe
+C:\Users\edtom\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.pdb
+C:\Users\edtom\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\bin\Debug\Calculadoraa.exe
+C:\Users\edtom\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\bin\Debug\Calculadoraa.pdb
+C:\Users\edtom\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\bin\Debug\mscorlib.dll
+C:\Users\edtom\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\bin\Debug\es\mscorlib.resources.dll
+C:\Users\edtom\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\bin\Debug\normidna.nlp
+C:\Users\edtom\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\bin\Debug\normnfc.nlp
+C:\Users\edtom\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\bin\Debug\normnfd.nlp
+C:\Users\edtom\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\bin\Debug\normnfkc.nlp
+C:\Users\edtom\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\bin\Debug\normnfkd.nlp
+C:\Users\edtom\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.csprojResolveAssemblyReference.cache
+C:\Users\edtom\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.CALCULADORA.resources
+C:\Users\edtom\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.Properties.Resources.resources
+C:\Users\edtom\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.csproj.GenerateResource.Cache
+C:\Users\edtom\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\bin\Debug\ClassLi.dll
+C:\Users\edtom\Documents\Visual Studio 2012\Projects\Calculadoraa\Calculadoraa\bin\Debug\ClassLi.pdb
+C:\Users\Web Designer\Desktop\Calculadoraa\Calculadoraa\bin\Debug\Calculadoraa.exe.config
+C:\Users\Web Designer\Desktop\Calculadoraa\Calculadoraa\bin\Debug\Calculadoraa.exe
+C:\Users\Web Designer\Desktop\Calculadoraa\Calculadoraa\bin\Debug\Calculadoraa.pdb
+C:\Users\Web Designer\Desktop\Calculadoraa\Calculadoraa\bin\Debug\ClassLi.pdb
+C:\Users\Web Designer\Desktop\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.csprojAssemblyReference.cache
+C:\Users\Web Designer\Desktop\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.CALCULADORA.resources
+C:\Users\Web Designer\Desktop\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.Properties.Resources.resources
+C:\Users\Web Designer\Desktop\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.csproj.GenerateResource.cache
+C:\Users\Web Designer\Desktop\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.csproj.CoreCompileInputs.cache
+C:\Users\Web Designer\Desktop\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.csproj.CopyComplete
+C:\Users\Web Designer\Desktop\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.exe
+C:\Users\Web Designer\Desktop\Calculadoraa\Calculadoraa\obj\Debug\Calculadoraa.pdb

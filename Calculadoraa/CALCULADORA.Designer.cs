@@ -60,7 +60,7 @@
             // btborrar
             // 
             this.btborrar.Location = new System.Drawing.Point(253, 108);
-            this.btborrar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btborrar.Margin = new System.Windows.Forms.Padding(2);
             this.btborrar.Name = "btborrar";
             this.btborrar.Size = new System.Drawing.Size(61, 41);
             this.btborrar.TabIndex = 1;
@@ -71,7 +71,7 @@
             // btretroceso
             // 
             this.btretroceso.Location = new System.Drawing.Point(326, 108);
-            this.btretroceso.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btretroceso.Margin = new System.Windows.Forms.Padding(2);
             this.btretroceso.Name = "btretroceso";
             this.btretroceso.Size = new System.Drawing.Size(61, 41);
             this.btretroceso.TabIndex = 2;
@@ -81,20 +81,21 @@
             // 
             // btporcentaje
             // 
+            this.btporcentaje.BackColor = System.Drawing.Color.YellowGreen;
             this.btporcentaje.Location = new System.Drawing.Point(180, 108);
-            this.btporcentaje.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btporcentaje.Margin = new System.Windows.Forms.Padding(2);
             this.btporcentaje.Name = "btporcentaje";
             this.btporcentaje.Size = new System.Drawing.Size(61, 41);
             this.btporcentaje.TabIndex = 3;
             this.btporcentaje.Text = "%";
-            this.btporcentaje.UseVisualStyleBackColor = true;
+            this.btporcentaje.UseVisualStyleBackColor = false;
             this.btporcentaje.Click += new System.EventHandler(this.btporcentaje_Click);
             // 
             // btpotencia
             // 
             this.btpotencia.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.btpotencia.Location = new System.Drawing.Point(104, 108);
-            this.btpotencia.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btpotencia.Margin = new System.Windows.Forms.Padding(2);
             this.btpotencia.Name = "btpotencia";
             this.btpotencia.Size = new System.Drawing.Size(61, 41);
             this.btpotencia.TabIndex = 4;
@@ -105,7 +106,7 @@
             // btfraccion
             // 
             this.btfraccion.Location = new System.Drawing.Point(104, 163);
-            this.btfraccion.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btfraccion.Margin = new System.Windows.Forms.Padding(2);
             this.btfraccion.Name = "btfraccion";
             this.btfraccion.Size = new System.Drawing.Size(61, 41);
             this.btfraccion.TabIndex = 5;
@@ -116,7 +117,7 @@
             // btraiz
             // 
             this.btraiz.Location = new System.Drawing.Point(180, 163);
-            this.btraiz.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btraiz.Margin = new System.Windows.Forms.Padding(2);
             this.btraiz.Name = "btraiz";
             this.btraiz.Size = new System.Drawing.Size(61, 41);
             this.btraiz.TabIndex = 6;
@@ -127,7 +128,7 @@
             // btsuma
             // 
             this.btsuma.Location = new System.Drawing.Point(253, 163);
-            this.btsuma.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btsuma.Margin = new System.Windows.Forms.Padding(2);
             this.btsuma.Name = "btsuma";
             this.btsuma.Size = new System.Drawing.Size(61, 41);
             this.btsuma.TabIndex = 7;
@@ -138,7 +139,7 @@
             // btresta
             // 
             this.btresta.Location = new System.Drawing.Point(326, 163);
-            this.btresta.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btresta.Margin = new System.Windows.Forms.Padding(2);
             this.btresta.Name = "btresta";
             this.btresta.Size = new System.Drawing.Size(61, 41);
             this.btresta.TabIndex = 8;
@@ -148,7 +149,7 @@
             // btmultiplicacion
             // 
             this.btmultiplicacion.Location = new System.Drawing.Point(326, 217);
-            this.btmultiplicacion.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btmultiplicacion.Margin = new System.Windows.Forms.Padding(2);
             this.btmultiplicacion.Name = "btmultiplicacion";
             this.btmultiplicacion.Size = new System.Drawing.Size(61, 41);
             this.btmultiplicacion.TabIndex = 9;
@@ -159,7 +160,7 @@
             // btdivision
             // 
             this.btdivision.Location = new System.Drawing.Point(326, 272);
-            this.btdivision.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btdivision.Margin = new System.Windows.Forms.Padding(2);
             this.btdivision.Name = "btdivision";
             this.btdivision.Size = new System.Drawing.Size(61, 41);
             this.btdivision.TabIndex = 10;
@@ -170,7 +171,7 @@
             // btigual
             // 
             this.btigual.Location = new System.Drawing.Point(326, 327);
-            this.btigual.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btigual.Margin = new System.Windows.Forms.Padding(2);
             this.btigual.Name = "btigual";
             this.btigual.Size = new System.Drawing.Size(61, 94);
             this.btigual.TabIndex = 11;
@@ -181,7 +182,7 @@
             // bt7
             // 
             this.bt7.Location = new System.Drawing.Point(104, 217);
-            this.bt7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.bt7.Margin = new System.Windows.Forms.Padding(2);
             this.bt7.Name = "bt7";
             this.bt7.Size = new System.Drawing.Size(61, 41);
             this.bt7.TabIndex = 12;
@@ -192,7 +193,7 @@
             // bt8
             // 
             this.bt8.Location = new System.Drawing.Point(180, 217);
-            this.bt8.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.bt8.Margin = new System.Windows.Forms.Padding(2);
             this.bt8.Name = "bt8";
             this.bt8.Size = new System.Drawing.Size(61, 41);
             this.bt8.TabIndex = 13;
@@ -203,7 +204,7 @@
             // bt9
             // 
             this.bt9.Location = new System.Drawing.Point(253, 217);
-            this.bt9.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.bt9.Margin = new System.Windows.Forms.Padding(2);
             this.bt9.Name = "bt9";
             this.bt9.Size = new System.Drawing.Size(61, 41);
             this.bt9.TabIndex = 14;
@@ -214,7 +215,7 @@
             // bt4
             // 
             this.bt4.Location = new System.Drawing.Point(104, 272);
-            this.bt4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.bt4.Margin = new System.Windows.Forms.Padding(2);
             this.bt4.Name = "bt4";
             this.bt4.Size = new System.Drawing.Size(61, 41);
             this.bt4.TabIndex = 15;
@@ -225,7 +226,7 @@
             // bt1
             // 
             this.bt1.Location = new System.Drawing.Point(104, 327);
-            this.bt1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.bt1.Margin = new System.Windows.Forms.Padding(2);
             this.bt1.Name = "bt1";
             this.bt1.Size = new System.Drawing.Size(61, 41);
             this.bt1.TabIndex = 16;
@@ -236,7 +237,7 @@
             // bt5
             // 
             this.bt5.Location = new System.Drawing.Point(180, 272);
-            this.bt5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.bt5.Margin = new System.Windows.Forms.Padding(2);
             this.bt5.Name = "bt5";
             this.bt5.Size = new System.Drawing.Size(61, 41);
             this.bt5.TabIndex = 17;
@@ -247,7 +248,7 @@
             // bt6
             // 
             this.bt6.Location = new System.Drawing.Point(253, 272);
-            this.bt6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.bt6.Margin = new System.Windows.Forms.Padding(2);
             this.bt6.Name = "bt6";
             this.bt6.Size = new System.Drawing.Size(61, 41);
             this.bt6.TabIndex = 18;
@@ -258,7 +259,7 @@
             // bt2
             // 
             this.bt2.Location = new System.Drawing.Point(180, 327);
-            this.bt2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.bt2.Margin = new System.Windows.Forms.Padding(2);
             this.bt2.Name = "bt2";
             this.bt2.Size = new System.Drawing.Size(61, 41);
             this.bt2.TabIndex = 19;
@@ -269,7 +270,7 @@
             // bt3
             // 
             this.bt3.Location = new System.Drawing.Point(253, 327);
-            this.bt3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.bt3.Margin = new System.Windows.Forms.Padding(2);
             this.bt3.Name = "bt3";
             this.bt3.Size = new System.Drawing.Size(61, 41);
             this.bt3.TabIndex = 20;
@@ -280,7 +281,7 @@
             // bt0
             // 
             this.bt0.Location = new System.Drawing.Point(253, 381);
-            this.bt0.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.bt0.Margin = new System.Windows.Forms.Padding(2);
             this.bt0.Name = "bt0";
             this.bt0.Size = new System.Drawing.Size(61, 41);
             this.bt0.TabIndex = 21;
@@ -291,7 +292,7 @@
             // btpunto
             // 
             this.btpunto.Location = new System.Drawing.Point(104, 381);
-            this.btpunto.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btpunto.Margin = new System.Windows.Forms.Padding(2);
             this.btpunto.Name = "btpunto";
             this.btpunto.Size = new System.Drawing.Size(136, 41);
             this.btpunto.TabIndex = 22;
@@ -305,7 +306,7 @@
             this.Resultado.Font = new System.Drawing.Font("Comic Sans MS", 25.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Resultado.ForeColor = System.Drawing.SystemColors.WindowText;
             this.Resultado.Location = new System.Drawing.Point(104, 19);
-            this.Resultado.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Resultado.Margin = new System.Windows.Forms.Padding(2);
             this.Resultado.Multiline = true;
             this.Resultado.Name = "Resultado";
             this.Resultado.Size = new System.Drawing.Size(283, 72);
@@ -370,7 +371,7 @@
             this.Controls.Add(this.btborrar);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.MaximizeBox = false;
             this.Name = "CALCULADORA";
             this.Text = "C A L C U L A D O R I T A";

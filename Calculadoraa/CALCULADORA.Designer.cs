@@ -59,9 +59,10 @@
             // 
             // btborrar
             // 
-            this.btborrar.Location = new System.Drawing.Point(337, 133);
+            this.btborrar.Location = new System.Drawing.Point(253, 108);
+            this.btborrar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btborrar.Name = "btborrar";
-            this.btborrar.Size = new System.Drawing.Size(81, 50);
+            this.btborrar.Size = new System.Drawing.Size(61, 41);
             this.btborrar.TabIndex = 1;
             this.btborrar.Text = "CE";
             this.btborrar.UseVisualStyleBackColor = true;
@@ -69,9 +70,10 @@
             // 
             // btretroceso
             // 
-            this.btretroceso.Location = new System.Drawing.Point(434, 133);
+            this.btretroceso.Location = new System.Drawing.Point(326, 108);
+            this.btretroceso.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btretroceso.Name = "btretroceso";
-            this.btretroceso.Size = new System.Drawing.Size(81, 50);
+            this.btretroceso.Size = new System.Drawing.Size(61, 41);
             this.btretroceso.TabIndex = 2;
             this.btretroceso.Text = "<---";
             this.btretroceso.UseVisualStyleBackColor = true;
@@ -79,9 +81,10 @@
             // 
             // btporcentaje
             // 
-            this.btporcentaje.Location = new System.Drawing.Point(240, 133);
+            this.btporcentaje.Location = new System.Drawing.Point(180, 108);
+            this.btporcentaje.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btporcentaje.Name = "btporcentaje";
-            this.btporcentaje.Size = new System.Drawing.Size(81, 50);
+            this.btporcentaje.Size = new System.Drawing.Size(61, 41);
             this.btporcentaje.TabIndex = 3;
             this.btporcentaje.Text = "%";
             this.btporcentaje.UseVisualStyleBackColor = true;
@@ -89,10 +92,11 @@
             // 
             // btpotencia
             // 
-            this.btpotencia.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.btpotencia.Location = new System.Drawing.Point(139, 133);
+            this.btpotencia.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.btpotencia.Location = new System.Drawing.Point(104, 108);
+            this.btpotencia.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btpotencia.Name = "btpotencia";
-            this.btpotencia.Size = new System.Drawing.Size(81, 50);
+            this.btpotencia.Size = new System.Drawing.Size(61, 41);
             this.btpotencia.TabIndex = 4;
             this.btpotencia.Text = "X^2";
             this.btpotencia.UseVisualStyleBackColor = false;
@@ -100,9 +104,10 @@
             // 
             // btfraccion
             // 
-            this.btfraccion.Location = new System.Drawing.Point(139, 201);
+            this.btfraccion.Location = new System.Drawing.Point(104, 163);
+            this.btfraccion.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btfraccion.Name = "btfraccion";
-            this.btfraccion.Size = new System.Drawing.Size(81, 50);
+            this.btfraccion.Size = new System.Drawing.Size(61, 41);
             this.btfraccion.TabIndex = 5;
             this.btfraccion.Text = "1 / x";
             this.btfraccion.UseVisualStyleBackColor = true;
@@ -110,9 +115,10 @@
             // 
             // btraiz
             // 
-            this.btraiz.Location = new System.Drawing.Point(240, 201);
+            this.btraiz.Location = new System.Drawing.Point(180, 163);
+            this.btraiz.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btraiz.Name = "btraiz";
-            this.btraiz.Size = new System.Drawing.Size(81, 50);
+            this.btraiz.Size = new System.Drawing.Size(61, 41);
             this.btraiz.TabIndex = 6;
             this.btraiz.Text = "√";
             this.btraiz.UseVisualStyleBackColor = true;
@@ -120,9 +126,10 @@
             // 
             // btsuma
             // 
-            this.btsuma.Location = new System.Drawing.Point(337, 201);
+            this.btsuma.Location = new System.Drawing.Point(253, 163);
+            this.btsuma.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btsuma.Name = "btsuma";
-            this.btsuma.Size = new System.Drawing.Size(81, 50);
+            this.btsuma.Size = new System.Drawing.Size(61, 41);
             this.btsuma.TabIndex = 7;
             this.btsuma.Text = "+";
             this.btsuma.UseVisualStyleBackColor = true;
@@ -130,18 +137,20 @@
             // 
             // btresta
             // 
-            this.btresta.Location = new System.Drawing.Point(434, 201);
+            this.btresta.Location = new System.Drawing.Point(326, 163);
+            this.btresta.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btresta.Name = "btresta";
-            this.btresta.Size = new System.Drawing.Size(81, 50);
+            this.btresta.Size = new System.Drawing.Size(61, 41);
             this.btresta.TabIndex = 8;
             this.btresta.Text = "-";
             this.btresta.UseVisualStyleBackColor = true;
             // 
             // btmultiplicacion
             // 
-            this.btmultiplicacion.Location = new System.Drawing.Point(434, 267);
+            this.btmultiplicacion.Location = new System.Drawing.Point(326, 217);
+            this.btmultiplicacion.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btmultiplicacion.Name = "btmultiplicacion";
-            this.btmultiplicacion.Size = new System.Drawing.Size(81, 50);
+            this.btmultiplicacion.Size = new System.Drawing.Size(61, 41);
             this.btmultiplicacion.TabIndex = 9;
             this.btmultiplicacion.Text = "*";
             this.btmultiplicacion.UseVisualStyleBackColor = true;
@@ -149,9 +158,10 @@
             // 
             // btdivision
             // 
-            this.btdivision.Location = new System.Drawing.Point(434, 335);
+            this.btdivision.Location = new System.Drawing.Point(326, 272);
+            this.btdivision.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btdivision.Name = "btdivision";
-            this.btdivision.Size = new System.Drawing.Size(81, 50);
+            this.btdivision.Size = new System.Drawing.Size(61, 41);
             this.btdivision.TabIndex = 10;
             this.btdivision.Text = "/";
             this.btdivision.UseVisualStyleBackColor = true;
@@ -159,9 +169,10 @@
             // 
             // btigual
             // 
-            this.btigual.Location = new System.Drawing.Point(434, 403);
+            this.btigual.Location = new System.Drawing.Point(326, 327);
+            this.btigual.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btigual.Name = "btigual";
-            this.btigual.Size = new System.Drawing.Size(81, 116);
+            this.btigual.Size = new System.Drawing.Size(61, 94);
             this.btigual.TabIndex = 11;
             this.btigual.Text = "=";
             this.btigual.UseVisualStyleBackColor = true;
@@ -169,9 +180,10 @@
             // 
             // bt7
             // 
-            this.bt7.Location = new System.Drawing.Point(139, 267);
+            this.bt7.Location = new System.Drawing.Point(104, 217);
+            this.bt7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.bt7.Name = "bt7";
-            this.bt7.Size = new System.Drawing.Size(81, 50);
+            this.bt7.Size = new System.Drawing.Size(61, 41);
             this.bt7.TabIndex = 12;
             this.bt7.Text = "7";
             this.bt7.UseVisualStyleBackColor = true;
@@ -179,9 +191,10 @@
             // 
             // bt8
             // 
-            this.bt8.Location = new System.Drawing.Point(240, 267);
+            this.bt8.Location = new System.Drawing.Point(180, 217);
+            this.bt8.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.bt8.Name = "bt8";
-            this.bt8.Size = new System.Drawing.Size(81, 50);
+            this.bt8.Size = new System.Drawing.Size(61, 41);
             this.bt8.TabIndex = 13;
             this.bt8.Text = "8";
             this.bt8.UseVisualStyleBackColor = true;
@@ -189,9 +202,10 @@
             // 
             // bt9
             // 
-            this.bt9.Location = new System.Drawing.Point(337, 267);
+            this.bt9.Location = new System.Drawing.Point(253, 217);
+            this.bt9.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.bt9.Name = "bt9";
-            this.bt9.Size = new System.Drawing.Size(81, 50);
+            this.bt9.Size = new System.Drawing.Size(61, 41);
             this.bt9.TabIndex = 14;
             this.bt9.Text = "9";
             this.bt9.UseVisualStyleBackColor = true;
@@ -199,9 +213,10 @@
             // 
             // bt4
             // 
-            this.bt4.Location = new System.Drawing.Point(139, 335);
+            this.bt4.Location = new System.Drawing.Point(104, 272);
+            this.bt4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.bt4.Name = "bt4";
-            this.bt4.Size = new System.Drawing.Size(81, 50);
+            this.bt4.Size = new System.Drawing.Size(61, 41);
             this.bt4.TabIndex = 15;
             this.bt4.Text = "4";
             this.bt4.UseVisualStyleBackColor = true;
@@ -209,9 +224,10 @@
             // 
             // bt1
             // 
-            this.bt1.Location = new System.Drawing.Point(139, 403);
+            this.bt1.Location = new System.Drawing.Point(104, 327);
+            this.bt1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.bt1.Name = "bt1";
-            this.bt1.Size = new System.Drawing.Size(81, 50);
+            this.bt1.Size = new System.Drawing.Size(61, 41);
             this.bt1.TabIndex = 16;
             this.bt1.Text = "1";
             this.bt1.UseVisualStyleBackColor = true;
@@ -219,9 +235,10 @@
             // 
             // bt5
             // 
-            this.bt5.Location = new System.Drawing.Point(240, 335);
+            this.bt5.Location = new System.Drawing.Point(180, 272);
+            this.bt5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.bt5.Name = "bt5";
-            this.bt5.Size = new System.Drawing.Size(81, 50);
+            this.bt5.Size = new System.Drawing.Size(61, 41);
             this.bt5.TabIndex = 17;
             this.bt5.Text = "5";
             this.bt5.UseVisualStyleBackColor = true;
@@ -229,9 +246,10 @@
             // 
             // bt6
             // 
-            this.bt6.Location = new System.Drawing.Point(337, 335);
+            this.bt6.Location = new System.Drawing.Point(253, 272);
+            this.bt6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.bt6.Name = "bt6";
-            this.bt6.Size = new System.Drawing.Size(81, 50);
+            this.bt6.Size = new System.Drawing.Size(61, 41);
             this.bt6.TabIndex = 18;
             this.bt6.Text = "6";
             this.bt6.UseVisualStyleBackColor = true;
@@ -239,9 +257,10 @@
             // 
             // bt2
             // 
-            this.bt2.Location = new System.Drawing.Point(240, 403);
+            this.bt2.Location = new System.Drawing.Point(180, 327);
+            this.bt2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.bt2.Name = "bt2";
-            this.bt2.Size = new System.Drawing.Size(81, 50);
+            this.bt2.Size = new System.Drawing.Size(61, 41);
             this.bt2.TabIndex = 19;
             this.bt2.Text = "2";
             this.bt2.UseVisualStyleBackColor = true;
@@ -249,9 +268,10 @@
             // 
             // bt3
             // 
-            this.bt3.Location = new System.Drawing.Point(337, 403);
+            this.bt3.Location = new System.Drawing.Point(253, 327);
+            this.bt3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.bt3.Name = "bt3";
-            this.bt3.Size = new System.Drawing.Size(81, 50);
+            this.bt3.Size = new System.Drawing.Size(61, 41);
             this.bt3.TabIndex = 20;
             this.bt3.Text = "3";
             this.bt3.UseVisualStyleBackColor = true;
@@ -259,9 +279,10 @@
             // 
             // bt0
             // 
-            this.bt0.Location = new System.Drawing.Point(337, 469);
+            this.bt0.Location = new System.Drawing.Point(253, 381);
+            this.bt0.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.bt0.Name = "bt0";
-            this.bt0.Size = new System.Drawing.Size(81, 50);
+            this.bt0.Size = new System.Drawing.Size(61, 41);
             this.bt0.TabIndex = 21;
             this.bt0.Text = "0";
             this.bt0.UseVisualStyleBackColor = true;
@@ -269,9 +290,10 @@
             // 
             // btpunto
             // 
-            this.btpunto.Location = new System.Drawing.Point(139, 469);
+            this.btpunto.Location = new System.Drawing.Point(104, 381);
+            this.btpunto.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btpunto.Name = "btpunto";
-            this.btpunto.Size = new System.Drawing.Size(182, 50);
+            this.btpunto.Size = new System.Drawing.Size(136, 41);
             this.btpunto.TabIndex = 22;
             this.btpunto.Text = ".";
             this.btpunto.UseVisualStyleBackColor = true;
@@ -282,10 +304,11 @@
             this.Resultado.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.Resultado.Font = new System.Drawing.Font("Comic Sans MS", 25.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Resultado.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.Resultado.Location = new System.Drawing.Point(139, 23);
+            this.Resultado.Location = new System.Drawing.Point(104, 19);
+            this.Resultado.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Resultado.Multiline = true;
             this.Resultado.Name = "Resultado";
-            this.Resultado.Size = new System.Drawing.Size(376, 88);
+            this.Resultado.Size = new System.Drawing.Size(283, 72);
             this.Resultado.TabIndex = 23;
             this.Resultado.TextChanged += new System.EventHandler(this.Resultado_TextChanged);
             // 
@@ -296,7 +319,8 @@
             this.archivoToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 28);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(600, 24);
             this.menuStrip1.TabIndex = 24;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -305,22 +329,22 @@
             this.archivoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.salirToolStripMenuItem});
             this.archivoToolStripMenuItem.Name = "archivoToolStripMenuItem";
-            this.archivoToolStripMenuItem.Size = new System.Drawing.Size(71, 24);
+            this.archivoToolStripMenuItem.Size = new System.Drawing.Size(60, 20);
             this.archivoToolStripMenuItem.Text = "Archivo";
             // 
             // salirToolStripMenuItem
             // 
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
-            this.salirToolStripMenuItem.Size = new System.Drawing.Size(107, 24);
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(96, 22);
             this.salirToolStripMenuItem.Text = "Salir";
             this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
             // 
             // CALCULADORA
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(800, 542);
+            this.ClientSize = new System.Drawing.Size(600, 440);
             this.Controls.Add(this.Resultado);
             this.Controls.Add(this.btpunto);
             this.Controls.Add(this.bt0);
@@ -346,6 +370,7 @@
             this.Controls.Add(this.btborrar);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.MaximizeBox = false;
             this.Name = "CALCULADORA";
             this.Text = "C A L C U L A D O R I T A";
